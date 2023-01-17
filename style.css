@@ -8,8 +8,9 @@
     --corbackgroud: #181818;
     --corfontes: #fff;
     
+    --fontepadrao: 'arial, Verdana, Helvetica, Sans-serif';
     --fontenome: 'Poppins'sans-serif;
-    --fontedescrip: 'Nunito'sans-serif;
+    --fontedescrip: 'nunito'sans-serif;
 }
 
 *{
@@ -22,9 +23,15 @@ body {
 }
 
 img {
-    border-radius: 10px;
+    border-radius: 25px;
     display: flex;
     margin: auto;
+}
+
+p {
+    font-family: 'Nunito', sans-serif;
+    display: flex;
+    margin-top: 20px;
 }
 
 h1 {
