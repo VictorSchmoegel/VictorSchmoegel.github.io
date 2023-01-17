@@ -11,3 +11,25 @@
     --fontenome: 'Poppins'sans-serif;
     --fontedescrip: 'Nunito'sans-serif;
 }
+
+*{
+    
+    background-color: #181818;
+}
+
+body {
+    color: #fff;
+}
+
+img {
+    border-radius: 10px;
+    display: flex;
+    margin: auto;
+}
+
+h1 {
+    color: #fff;
+    font-family: 'poppins'sans-serif;
+    text-align: center;   
+}
+
